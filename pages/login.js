@@ -18,15 +18,12 @@ import firebaseApp from "../components/firebase"
 import firebase from "../components/firebase2"
 
 
-import NoteCard from '../components/Notecard';
 import { Grid } from '@mui/material';
 
 import { makeStyles } from "@mui/styles"
 import { styled } from '@mui/material/styles';
 import Paper from '@mui/material/Paper';
 
-import Medium from '../components/Medium';
-import Debank from '../components/Debank';
 
 import { TwitterTimelineEmbed,  TwitterTweetEmbed } from 'react-twitter-embed';
 
